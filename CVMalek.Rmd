@@ -58,7 +58,7 @@ This resume was made with the R package [**pagedown**](https://github.com/rstudi
 Last updated on `r Sys.Date()`.
 
 
-<i class='fas fa-download'></i> [Download PDF](https://beatrizmilz.github.io/resume/index.pdf).
+<i class='fas fa-download'></i> [Download PDF](https://www.ebadi-malek.me/media/MalekEbadiResume.pdf).
 
 
 Main
